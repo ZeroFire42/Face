@@ -14,4 +14,4 @@ $ git clone https://github.com/ZeroFire42/Face
 
 $ cd Face
 
-$ python Face.py
+$ python face.py
